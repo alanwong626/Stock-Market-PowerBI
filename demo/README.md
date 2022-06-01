@@ -1,4 +1,5 @@
-### ⚠️ Please note that a live demo is not available currently as Microsoft does not provide Power BI Pro license to personal users. ⚠️ 
+### ⚠️  Please note that a live demo is unavailable as Microsoft does not provide Power BI Pro license to personal users. 
+ ⚠️ 
 
 <br/>
 
